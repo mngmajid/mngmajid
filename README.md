@@ -54,13 +54,17 @@ I value **precision in code**, **clarity in design**, and **impact in execution*
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mngmajid&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mngmajid&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+| Profile Details |
+| :---: | 
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mngmajid&theme=github_dark" width="400" /> | 
+
+| Productivity | Activity Graph |
+| :---: | :---: |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mngmajid&theme=github_dark" width="400" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mngmajid&theme=github_dark" width="400" /> |
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mngmajid&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mngmajid&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681)](https://git.io/streak-stats)
 
 </div>
 
